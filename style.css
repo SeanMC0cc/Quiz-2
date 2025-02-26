@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(Img/Theatre.jpg!sw800);
+    background-size: 125em;
+    background-position: center;
+}
+main, h1 {
+    max-width: 600px;
+    margin: auto;
+    color: aliceblue;
+}
+#ticketImage {
+    display: none;
+    width: 300px;
+}
